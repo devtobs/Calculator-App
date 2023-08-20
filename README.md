@@ -1,10 +1,6 @@
 # Calculator app
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
-
-### Link
-
-- Live Site URL: [qr-code](https://devtobs.github.io/QR-code/)
+A standard calculator made with HTML, CSS, and JavaScript for computing basic mathematical operations.
 
 ### Built with
 
