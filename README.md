@@ -10,4 +10,4 @@ A standard calculator made with HTML, CSS, and JavaScript for computing basic ma
 
 ### Twitter
 
-- Twitter - [@tobsthecoder](https://www.twitter.com/tobsthecoder)
+[@tobsthecoder](https://www.twitter.com/tobsthecoder)
